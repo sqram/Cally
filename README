@@ -1,0 +1,28 @@
+Cally is a (very) simple calendar that rests on your desktop in a conky-ish kind of way.
+It allows you to quickly and easily add notes to a certain date.
+It was designed to be simple and light.
+
+
+Project homepage:
+http://none.io/playground/view/cally
+
+
+HOW TO INSTALL
+---------------------------
+download and put the cally directory somewhere
+tell your WM/DE to run the main.py on boot.
+
+
+Q & A's
+---------------------------
+Q: Why didn't you use distutils or something similar for installation?
+A: Some people get permission problems.
+
+Q: How do i add an event to a day?
+A: Double-click it.
+
+Q: How do i remove an event from a day?
+A: Double click the day, delete your notes for that day, save.
+
+Q: Is there a license?
+A: MIT.
