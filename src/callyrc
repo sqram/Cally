@@ -1,0 +1,19 @@
+
+			# Our config file.
+			# Leave a value blank for default/transparency
+
+
+			# by default, the windows is placed on the top left of your screen, (0,0) coordinates.
+			# 'margin left' tells how many pixels from the left cally should load. Same thing for 'margin top'
+			# play around with these to position cally where you want it. Some window managers may ignore this.
+
+			{
+			'margin left' : 1620,			# distance from left side of screen
+			'margin top' : 30,				# distance from top of screen
+			'text normal':'#222222',		# default text color for everything
+			'text event' : '#6c9b87',		# text color on event day
+			'background calendar' : '',		# not yet implemented
+			'background weekday' : '',		# background of mon, tue, etc
+			'background event' : '#222222'	# background color of event day
+			}
+			
