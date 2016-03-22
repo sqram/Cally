@@ -7,6 +7,7 @@ Can store notes on each day.
 
 <img src="http://i.imgur.com/Jo793WR.jpg" width="250" height="200" />
 <img src="http://i.imgur.com/XjdqnRw.jpg" width="250" height="200" />
+<img src="http://i.imgur.com/Go6P7dP.jpg" width="250" height="200" />
 
 
 
