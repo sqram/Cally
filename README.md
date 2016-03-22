@@ -4,10 +4,9 @@ Can store notes on each day.
 
 
 ## Screenshot
-![Screenshot](http://i.imgur.com/4PDjz.jpg)
-![Screenshot](http://i.imgur.com/redwS.jpg)
-![Screenshot](http://i.imgur.com/61tDm.jpg)
 
+<img src="http://i.imgur.com/Jo793WR.jpg" width="250" height="200" />
+<img src="http://i.imgur.com/XjdqnRw.jpg" width="250" height="200" />
 
 
 
